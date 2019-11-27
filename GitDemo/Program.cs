@@ -9,6 +9,8 @@ namespace GitDemo
             Console.WriteLine("Hello World!");
 
             // Write lots and lots of really good code!
+            // More excellent changes
+            // Unstaged changes
         }
     }
 }
