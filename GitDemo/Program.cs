@@ -11,6 +11,7 @@ namespace GitDemo
             // Write lots and lots of really good code!
             // More excellent changes
             // Unstaged changes
+            // local to the ContactPage branch
         }
     }
 }
