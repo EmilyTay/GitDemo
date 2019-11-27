@@ -7,6 +7,8 @@ namespace GitDemo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            // Write lots and lots of really good code!
         }
     }
 }
